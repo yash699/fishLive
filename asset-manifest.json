@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fishLive/static/css/main.951a95b8.css",
+    "main.js": "/fishLive/static/js/main.c8cf7b00.js",
+    "static/js/787.84dcf205.chunk.js": "/fishLive/static/js/787.84dcf205.chunk.js",
+    "index.html": "/fishLive/index.html",
+    "main.951a95b8.css.map": "/fishLive/static/css/main.951a95b8.css.map",
+    "main.c8cf7b00.js.map": "/fishLive/static/js/main.c8cf7b00.js.map",
+    "787.84dcf205.chunk.js.map": "/fishLive/static/js/787.84dcf205.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.951a95b8.css",
+    "static/js/main.c8cf7b00.js"
+  ]
+}
