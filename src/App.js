@@ -41,6 +41,7 @@ function Test() {
 
        <Navbar/>
            
+      <React.StrictMode>
 
         <BrowserRouter >
           <Routes>
@@ -70,7 +71,7 @@ function Test() {
 
           </Routes>
         </BrowserRouter>
-
+      </React.StrictMode>
       <Footer/>
 
           
